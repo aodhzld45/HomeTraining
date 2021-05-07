@@ -1,8 +1,6 @@
 # -HomeTraining-
 
 # 개요
-
-<hr>
 ...
 운동1
 운동2
