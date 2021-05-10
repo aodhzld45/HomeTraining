@@ -8,12 +8,6 @@
 
 3. 자신이 운동한 종류 및 횟수의 반복 수에 따라서 칼로리를 계산하고 그 칼로리를 시각적인 그래프 형식으로 나타냄
 ```
-# 사용기술
-```
-JAVA
-PHP
-MYSQL
-```
 
 #### [서비스 구분]
 
@@ -26,3 +20,10 @@ MYSQL
 #### [Class Diagram]
 
 ![image](https://user-images.githubusercontent.com/71122744/117385255-af032d00-af1f-11eb-94fc-88ca0abae55d.png)
+
+#사용기술
+```
+JAVA
+PHP
+MYSQL
+```
